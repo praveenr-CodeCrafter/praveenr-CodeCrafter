@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there [Praveen Rajamani]
+
+### Results-Driven Software Engineer
+
+I am a **Results-driven and highly skilled Software Engineer** with **2 years of professional experience** in developing robust and scalable software products and solutions. 
+
+With a strong foundation in software development principles, I have a proven track record of delivering **high-quality products/features** within deadline-driven environments. My passion for **problem-solving** and commitment to **continuous learning** drives me to contribute my expertise to dynamic teams and foster innovation in software engineering.
+
+🚀 Let's connect and explore how we can collaborate to create impactful software solutions!
 
 <!--
 **Praveen10/Praveen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
