@@ -61,11 +61,15 @@
 - **📂 GitHub:** 🔐 Private repository under construction.
 ---
 
-## 📈 Stats
+## 📈 Stats and Activity
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen10&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen10&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
+<div>
+    <p align="center">
+      <a href="https://github.com/Praveen10">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen10&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen10&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
+      </a>
+    </p>
 </div>
 
 ---
