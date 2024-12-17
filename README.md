@@ -71,6 +71,9 @@
       </a>
     </p>
 </div>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Praveen10&theme=dracula&margin-w=20&margin-h=15&row=1&column=8&no-bg=false&no-frame=false" alt="Praveen10" />
+</p>
 
 ---
 
