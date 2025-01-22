@@ -45,14 +45,14 @@
 ### Takeaway Menu System
 - **✨ Features:** Dynamic map visualization, secure payment processing with Stripe API
 - **🛠️ Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap UI, Leaflet.js, Chart.js, Strip
-- **📂 GitHub:** [takeaway-menu-system](https://github.com/Praveen10/takeawaymenusystem)
+- **📂 GitHub:** [takeaway-menu-system](https://github.com/praveenr-codecrafter/takeawaymenusystem)
 ---
 
 ### Currency Converter
 - **✨ Features:** Real-time exchange rates, multi-currency support, mobile compatibility
 - **🛠️ Technologies:** React, Tailwind CSS, Frankfurter API
-- **📂 GitHub:** [currency-converter](https://github.com/Praveen10/currency-converter)
-- **🌐 Live Demo:** [currency-converter-demo](https://praveen10.github.io/currency-converter/)
+- **📂 GitHub:** [currency-converter](https://github.com/praveenr-codecrafter/currency-converter)
+- **🌐 Live Demo:** [currency-converter-demo](https://praveenr-codecrafter.github.io/currency-converter/)
 ---
 
 ### PDF Data Extraction Tool - (In Progress)
@@ -65,14 +65,14 @@
 
 <div>
     <p align="center">
-      <a href="https://github.com/Praveen10">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen10&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen10&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
+      <a href="https://github.com/praveenr-codecrafter">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr-codecrafter&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr-codecrafter&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
       </a>
     </p>
 </div>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Praveen10&theme=dracula&margin-w=20&margin-h=15&row=1&column=8&no-bg=false&no-frame=false" alt="Praveen10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=praveenr-codecrafter&theme=dracula&margin-w=20&margin-h=15&row=1&column=8&no-bg=false&no-frame=false" alt="praveenr-codecrafter" />
 </p>
 
 ---
