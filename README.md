@@ -61,6 +61,13 @@
 - **📂 GitHub:** 🔐 Private repository under construction.
 ---
 
+### Agent.ai Personal Growth Buddy
+- **✨ Features:** AI-powered assistant that provide practical, actionable guidance across diverse areas like mental well-being, career growth, and habit formation.
+- **🛠️ Technologies:** OpenAI API, Low code
+- **📂 Agent.ai Playground:** [Personal-Growth-Buddy](https://agent.ai/agent/personal-growth-buddy)
+- **🌐 Live Demo:** [Personal-Growth-Buddy-Demo](https://youtu.be/qLK3Byi8j9k?si=20-Uu4pZqiIlNA8v)
+---
+
 ## 📈 Stats and Activity
 
 <div>
