@@ -73,7 +73,7 @@
 <div>
     <p align="center">
       <a href="https://github.com/praveenr-codecrafter">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr-codecrafter&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenr-codecrafter&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&cache_seconds=3600"/>
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr-codecrafter&layout=compact&langs_count=6&theme=catppuccin_mocha"/>
       </a>
     </p>
