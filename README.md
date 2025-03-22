@@ -68,6 +68,13 @@
 - **🌐 Live Demo:** [Personal-Growth-Buddy-Demo](https://youtu.be/qLK3Byi8j9k?si=20-Uu4pZqiIlNA8v)
 ---
 
+### Random Recipe Generator
+- **✨ Features:** Select from 20+ cuisines, AI-generated dish names, nutrients, ingredients, time and serving information, and method to cook, option to specify a main ingredient (optional), simple and responsive UI, error handling for API failures, smooth UI experience with loading indicators.
+- **🛠️ Technologies:** React + Vite, Tailwind CSS, Google Generative AI API, Lucide-React
+- **📂 GitHub:** [Random-Recipe-Generator](https://github.com/praveenr-CodeCrafter/random-dish-generator)
+- **🌐 Live Demo:** [Random-Recipe-Generator-Demo](https://random-dish-generator.vercel.app/)
+---
+
 ## 📈 Stats and Activity
 
 <div>
