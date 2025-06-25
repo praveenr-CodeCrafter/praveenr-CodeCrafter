@@ -42,6 +42,13 @@
 
 ## 🛠 GitHub Projects  
 
+### Oops2Okay – AI Code Debugging Assistant
+- **✨ Features:** Paste code & error, get instant debugging suggestions powered by Gemini 2.0 Flash, maintains debug history, minimal UI with theme toggle, localStorage support.
+- **🛠️ Technologies:** React + Vite, Tailwind CSS, FastAPI, Python, Google Generative AI (Gemini 2.0 Flash), Lucide-React
+- **📂 GitHub:** [Oops2Okay](https://github.com/praveenr-CodeCrafter/oops2okay)
+- **🌐 Live Demo:** [Oops2Okay](https://oops2okay.vercel.app/)
+---
+
 ### Takeaway Menu System
 - **✨ Features:** Dynamic map visualization, secure payment processing with Stripe API
 - **🛠️ Technologies:** Python, Django, MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap UI, Leaflet.js, Chart.js, Strip
