@@ -36,7 +36,8 @@
 ---
 
 ## 📜 Certifications  
-- **Scrum Master Certification (CSM®)**  
+- **Scrum Master Certification (CSM®)**
+- **Hugging Face: Fundamentals of Agents**
 
 ---
 
